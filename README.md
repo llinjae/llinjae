@@ -9,7 +9,7 @@
   
   ---
   
-  <a href="https://github.com/llinjae"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/llinjae" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://velog.io/@dldlswognqh"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
   
   ### 🌟 Studying 🌟
