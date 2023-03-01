@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="https://velog.io/@dldlswognqh" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@dldlswognqh"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto:dldlswo23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dldlswo23@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
