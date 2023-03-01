@@ -23,4 +23,3 @@
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></span>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llinjae&show_icons=true&theme=radical)
