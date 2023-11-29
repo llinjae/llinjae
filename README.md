@@ -1,3 +1,5 @@
+![llinjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=llinjae&show_icons=true&theme=radical)
+
 ### 🤞 Nice way to meet me
 <p>
   <a href="https://velog.io/@dldlswognqh"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
